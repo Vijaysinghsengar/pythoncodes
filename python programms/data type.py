@@ -1,0 +1,10 @@
+A=("yash","vijay")
+B=["yash"]
+C={"yash":12,"vijay":43}
+D=10.33
+E=10
+print(type(A))
+print(type(B))
+print(type(C))
+print(type(D))
+print(type(E))
